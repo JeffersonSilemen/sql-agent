@@ -89,3 +89,18 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+---
+
+### Prévias do Projeto
+![The San Juan Mountains are beautiful!](/assets/image1.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/image2.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/image3.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/image4.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/image5.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/image6.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/image7.png "San Juan Mountains")
+
+### 🙋‍♂️  Contato
+Qualquer dúvida, estou à disposição para explicar as decisões tomadas durante o desenvolvimento.
+
+Jefferson — [LinkedIn](https://www.linkedin.com/in/jeffersonsilemen/) | [Github](https://github.com/JeffersonSilemen)
