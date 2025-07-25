@@ -43,3 +43,49 @@ SQL-AGENT/
 ├── observability.py            # Logs com OpenTelemetry
 │
 └── requirements.txt            # Dependências do projeto
+```
+
+## 🚀 Tecnologias Utilizadas
+
+- Python 3.10+
+- LangChain
+- LangGraph
+- Streamlit
+- PostgreSQL
+- OpenTelemetry
+- DeepSeek (LLM usado)
+
+---
+
+## 📦 Como executar o projeto localmente
+
+### 1. Clone o repositório
+Para colar no terminal use (ctrl + shit + v)
+```bash
+git clone
+```
+
+- Abra a pasta criada
+```bash
+cd feedback-analyser
+```
+
+
+### 2. Criação do ambiente virtual
+- É altamente recomendada a criação de um ambiente virtual para executar o projeto. Para não atrapalhar os ambientes de desenvolvimento de outros projetos.
+```bash
+python3 -m venv venv 
+```
+
+- Ative o ambiente virtual
+```bash
+# Caso esteja usando Linux, use:
+source venv/bin/activate  
+# Caso esteja usando Windows, use: 
+venv\Scripts\activate
+```
+
+### 3. Instale as dependências
+```bash
+pip install -r requirements.txt
+```
