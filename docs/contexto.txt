@@ -1,0 +1,17 @@
+Tabela clientes:
+- id
+- nome
+- email
+
+Tabela produtos:
+- id
+- nome
+- categoria
+- preco
+
+Tabela transacoes:
+- id
+- id_cliente
+- id_produto
+- data
+- quantidade

@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+openai
+psycopg2-binary
+sqlalchemy
+python-dotenv
+pandas
+loguru
+tiktoken
+sqlaclchemy
