@@ -62,12 +62,12 @@ SQL-AGENT/
 ### 1. Clone o repositório
 Para colar no terminal use (ctrl + shit + v)
 ```bash
-git clone
+git clone git@github.com:JeffersonSilemen/sql-agent.git
 ```
 
 - Abra a pasta criada
 ```bash
-cd feedback-analyser
+cd sql-agent
 ```
 
 
